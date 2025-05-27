@@ -30,7 +30,7 @@
   <a href="https://t.me/boroda_slim">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" alt="Telegram" width="145"/>
   </a>
-  <a href="mailto:alexandr.yakimov.heaven@gmail.com">
+ <a href="mailto:alexandr.yakimov.heaven@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" width="110" />
   </a>
 </div>

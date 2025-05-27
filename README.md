@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DA1F2&width=435&lines=Junior+Frontend+developer;Люблю+код,+кофе+и+айти-мемасы;Хочу+зепку+как+у+Дурова!)](https://git.io/typing-svg)
 
-<div id="header">
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/566727c192a85428ecaedd6fdef592a3bf62c49a60fdc3846e60e29c31dd084d.gif" width="500" height="200" />
+<div>
+    <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/12da1b69a46b6755e3344f154046638563b9f3ee13bef198c81ca82d7055be6b.gif" />
 </div>
 
 ## 🛠 Мой стек технологий / Tech Stack
@@ -15,6 +15,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="PostgreSQL" width="60" height="60" text="white" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-plain.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/b278d8cdcdc5eb790d16c90921b8435fe529d0ee3866c3acc7ebee34d2ce41e4.gif" height="60"/>
 </div>
 
 ## 🌱 Сейчас изучаю / Currently Learning 
@@ -26,13 +27,12 @@
 </div>
 
 ### 📫 Контакты / Contacts 
-<div id="badges">
+<div>
   <a href="https://t.me/boroda_slim">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" alt="Telegram" width="145"/>
   </a>
- <a href="mailto:alexandr.yakimov.heaven@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" width="110" />
-  </a>
 </div>
+
 <hr>
+
 <img src="https://komarev.com/ghpvc/?username=Bronkss&style=flat-square&color=blue" width="150" alt=""/>

@@ -1,6 +1,6 @@
 # **Hi, I'm Alexander Yakimov!** 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=1DA1F2&width=435&lines=Junior+Frontend+developer;Люблю+код,+кофе+и+айти-мемасы;Хочу+зепку+как+у+Дурова!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DA1F2&width=435&lines=Junior+Frontend+developer;Люблю+код,+кофе+и+айти-мемасы;Хочу+зепку+как+у+Дурова!)](https://git.io/typing-svg)
 
 <div id="header">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/566727c192a85428ecaedd6fdef592a3bf62c49a60fdc3846e60e29c31dd084d.gif" width="500" height="200" />

@@ -14,8 +14,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="PostgreSQL" width="60" height="60" text="white" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-plain.svg" title="Git" **alt="Git" width="60" height="60"/>
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/b278d8cdcdc5eb790d16c90921b8435fe529d0ee3866c3acc7ebee34d2ce41e4.gif" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-plain.svg" title="Git" alt="Git" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60" />
+  <a href="https://www.codewars.com/users/Bronkss"><img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/b278d8cdcdc5eb790d16c90921b8435fe529d0ee3866c3acc7ebee34d2ce41e4.gif" height="60"/></a>
 </div>
 
 ## 🌱 Сейчас изучаю / Currently Learning 

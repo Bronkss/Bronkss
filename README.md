@@ -23,7 +23,7 @@
 <div>
     <img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" title="React" alt="React" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="60" height="60"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="60" height="60"/>&nbsp;
+    <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" title="Vite" alt="Vite" width="60" height="60"/>&nbsp;
     <img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" title="TypeScript" alt="TypeScript" width="90" />&nbsp;
 </div>
 
